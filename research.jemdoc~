@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU}{research.html}
+
+== Working papers
+
+- [ Kean Ming Tan], [http://faculty.washington.edu/nrsimon/ Noah Simon], and [http://www.biostat.washington.edu/~dwitten Daniela Witten]. *Selection bias correction and effect size estimation under dependence*. [http://arxiv.org/pdf/1405.4251v1.pdf \[arxiv\]] 
+- Anna Sunshine, Celia Payen, Giang Ong, Ivan Liachko, [ Kean Ming Tan], and Maitreya Dunham. *The fitness consequences of aneuploidy are driven by condition-dependent gene effects*.
+
+== Published papers    \n
+
+
+
+- [ Kean Ming Tan], [http://www.biostat.washington.edu/~ashojaie/ Ali Shojaie], and [http://www.biostat.washington.edu/~dwitten Daniela Witten] (20145. *The cluster graphical lasso for improved estimation of Gaussian graphical models*.  /Computational Statistics and Data Analysis/ 85:23-36 [http://www.sciencedirect.com/science/article/pii/S0167947314003387 \[link\]]
+
+- [ Kean Ming Tan], [http://home.earthlink.net/~tamarlondon/ Palma London], [http://students.washington.edu/karna/ Karthik Mohan], [http://suinlee.cs.washington.edu Su-In Lee], [http://faculty.washington.edu/mfazel/ Maryam Fazel], and [http://www.biostat.washington.edu/~dwitten Daniela Witten] (2014). *Learning graphical models with hubs*. /Journal of Machine Learning Research/ 15(Oct):3297-3331. [http://jmlr.org/papers/volume15/tan14b/tan14b.pdf \[link\]] [http://cran.r-project.org/web/packages/hglasso/ \[CRAN hglasso package\]]
+
+- [ Kean Ming Tan] and [http://www.biostat.washington.edu/~dwitten Daniela Witten] (2014). *Sparse biclustering of transposable data*. /Journal of Computational and Graphical Statistics/ (23)4:985-1008. [http://www.tandfonline.com/doi/full/10.1080/10618600.2013.852554 \[link\] ]   [http://cran.r-project.org/web/packages/sparseBC/ \[CRAN sparseBC package\]]
+
+- [ Kean Ming Tan\*], [http://students.washington.edu/ajpete/ Ashley Petersen\*], and [http://www.biostat.washington.edu/~dwitten Daniela Witten] (2014). *Classification of RNA-seq data*. Statistical Analysis of Next Generation Sequencing Data, 219-246. [http://link.springer.com/chapter/10.1007/978-3-319-07212-8_11 \[springer link\]]
+
+- [http://www.stat.purdue.edu/~xbw/ Bowei Xi], [ Kean Ming Tan], and [http://www.stat.purdue.edu/~chuanhai/ Chuanhai Liu] (2013). *Logarithmic transformation based gamma random number generators*. /Journal of Statistical Software/ 55(4). [http://www.jstatsoft.org/v55/i04/paper \[pdf\] ]
+
+- [https://sites.google.com/site/tangrock/ Mingjie Tang\*], [ Kean Ming Tan\*], [http://www-stat.wharton.upenn.edu/~xtan/index.html Xin Lu Tan], [http://www.cs.sunysb.edu/~sael/ Sael Lee], [http://www.cs.purdue.edu/homes/mchitale/ Meghana Chitale], Juan Manuel Esquivel, and [http://kiharalab.org Daisuke Kihara] (2013). *Graphical models for protein function and structure predictions*. Biological Knowledge Discovery Handbook: Preprocessing, Mining, and Postprocessing of Biological Data, M. Elloumi and A.Y. Zomaya Edition, Wiley Series in Bioinformatics. [http://www.amazon.com/Biological-Knowledge-Discovery-Handbook-Postprocessing/dp/1118132734 \[link\]]
+
+
+== Applied work
+
+- Diane Schrempp, Michael Childress, Jane Stewart, Tiffany Leach, [ Kean Ming Tan], Andrew Abbo, Amalia de Gortari, Patty Bonney and Deborah Knapp (2013). *Metronomic administration of chlorambucil for treatment of dogs with urinary bladder transitional cell carcinoma*. /Journal of the American Veterinary Medical Association/ 242(11): 1534--1538. 
+
+- D.W. Knapp, C.J. Henry, W.R. Widmer, [ Kean Ming Tan], G.E. Moore, J.A. Ramos-Vara, M.D. Lucroy, C.B. Greenberg, S.N. Greene, A.H. Abbo, P.D. Hanson, R. Alva, and P.L. Bonney (2013). *Randomized trial of Cisplatin versus Firocoxib versus Cisplatin/Firocoxib in dogs with transitional cell carcinoma of the urinary bladder*. /Journal of Veterinary Internal Medicine/ 27(1): 126--133. 
+
+- E.J. Arnold, M.O. Childress, L.M. Fourez, [ Kean Ming Tan], J.C. Stewart, P.L. Bonney, D.W. Knapp (2011). *Clinical trial of Vinblastine in dogs with transitional cell carcinoma of the urinary bladder*. /Journal of Veterinary Internal Medicine/ 25(6): 1385--1390.
+
+
+~~
+* indicates joint first authorship.
+~~
+

@@ -1,0 +1,8 @@
+# jemdoc: menu{MENU}{favorite.html}
+
+= My favorite papers
+
+== Convex optimization
+
+- Benjamin Recht, [http://faculty.washington.edu/mfazel/ Maryam Fazel], and Pablo Parrilo (2010). *Guaranteed minimum-rank solutions of linear matrix equations via nuclear norm minimization*. /SIAM review/ 52(3), 471-501. [http://epubs.siam.org/doi/abs/10.1137/070697835 \[link\] ]
+

@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{software.html}
+
+= Publicly-Available Software 
+
+== Graphical models with Hubs 
+[http://cran.r-project.org/web/packages/hglasso/ \[CRAN hglasso package\]]. \n
+
+An R software package for estimating graphs with hub nodes.  Hub graphical lasso and hub covariance graph estimation are implemented. \n
+
+Reference: KM Tan, P London, K Mohan, S-I Lee, M Fazel and Ditten.  *Learning graphical models with hubs*. /To appear in Journal of Machine Learning Research/.  [http://arxiv.org/pdf/1402.7349v1.pdf \[arxiv\]]
+
+== Sparse biclustering 
+[http://cran.r-project.org/web/packages/sparseBC/ \[CRAN sparseBC package\]]. \n
+
+An R software package for performing sparse biclustering of transposable data.  Sparse biclustering and matrix variate normal biclustering are implemented. \n
+
+Reference: KM Tan and D Witten.  *Sparse biclustering of transposable data*.  /To appear in Journal of Computational and Graphical Statistics/. [http://www.tandfonline.com/doi/full/10.1080/10618600.2013.852554 \[link\]] 

@@ -1,6 +1,7 @@
 # jemdoc: menu{MENU}{software.html}
 
-= Publicly-Available Software 
+= Publicly-Available Software
+Here is a list of software I maintain.
 
 == Graphical models with Hubs 
 [http://cran.r-project.org/web/packages/hglasso/ \[CRAN hglasso package\]]. \n
